@@ -1,0 +1,2 @@
+3. Write a program to read the numbers until -1 is encountered. Also count the
+negative, positives, and zeroes entered by the user.

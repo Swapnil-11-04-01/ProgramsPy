@@ -1,0 +1,1 @@
+3. Write a Python function to calculate the simple interest.

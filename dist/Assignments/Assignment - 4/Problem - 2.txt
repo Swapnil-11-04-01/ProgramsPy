@@ -1,0 +1,1 @@
+2. Python Program to find the sum of digits in a number.

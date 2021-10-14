@@ -1,0 +1,2 @@
+6. Python Program to take in the marks of 5 subjects and display the
+grade.

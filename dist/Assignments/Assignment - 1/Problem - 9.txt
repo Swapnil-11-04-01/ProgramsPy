@@ -1,0 +1,1 @@
+9. Python program calculates the bill amount for an item given its quantity sold, value, discount and tax.

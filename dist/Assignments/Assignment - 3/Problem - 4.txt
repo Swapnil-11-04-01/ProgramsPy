@@ -1,0 +1,2 @@
+4. Write a program to read the numbers until - 1 is encountered. Find the
+average of positive numbers and negative numbers entered by the user.

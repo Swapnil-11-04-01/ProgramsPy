@@ -1,0 +1,1 @@
+10.Python program that calculates the seconds in a given hrs.

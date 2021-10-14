@@ -1,0 +1,2 @@
+8. Write a program to calculate the sum of numbers entered by the user until
+user enters a negative number.

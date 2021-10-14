@@ -1,0 +1,1 @@
+5. Write a function rev_num() to reverse a number.

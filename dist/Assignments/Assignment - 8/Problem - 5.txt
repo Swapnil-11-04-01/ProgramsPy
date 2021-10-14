@@ -1,0 +1,2 @@
+5. Write a program that converts strings of all uppercase characters into strings
+of all lowercase characters using the map () function.

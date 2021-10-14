@@ -1,0 +1,2 @@
+3. Write a program that forms a list of first character of every word in another
+list.

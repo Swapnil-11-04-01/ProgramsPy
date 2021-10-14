@@ -1,0 +1,6 @@
+5. Write a program to print patterns
+     *
+    **
+  ***
+  ****
+*****

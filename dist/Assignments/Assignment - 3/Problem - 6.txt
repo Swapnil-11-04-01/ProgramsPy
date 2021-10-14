@@ -1,0 +1,2 @@
+6. Python Program to read a number n and print and compute the series
+"1+2+...+n=".

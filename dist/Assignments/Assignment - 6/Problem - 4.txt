@@ -1,0 +1,2 @@
+4. Write a Python function to print name, age and Salary of person using keyword
+arguments.

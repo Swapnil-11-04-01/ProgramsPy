@@ -1,0 +1,1 @@
+6. Python Program to compute simple interest given all the required values.

@@ -1,0 +1,2 @@
+8. Python program to calculator the total amount of money in the piggy bank,
+   given the coins of Rs. 10, 5, 2 and 1.

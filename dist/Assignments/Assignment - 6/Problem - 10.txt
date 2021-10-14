@@ -1,0 +1,2 @@
+10.Write a Python function to multiply all the numbers using variable keyword
+arguments.

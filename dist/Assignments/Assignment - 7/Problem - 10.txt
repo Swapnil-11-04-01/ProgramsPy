@@ -1,0 +1,2 @@
+10.Python program to extract mail domain from given mail id i.e.
+icicites02@sknscoe.ac.in. skscoe.ac.in is the domain of the given id.

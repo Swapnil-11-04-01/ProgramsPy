@@ -25,4 +25,6 @@ Click the gif above to watch full video demonstration of the project on YouTube.
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/programs.py.git
+   https://github.com/Swapnil-11-04-01/ProgramsPy.git
+   ```
+3. Click Start.exe

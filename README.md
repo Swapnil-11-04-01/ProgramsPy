@@ -18,9 +18,9 @@ A software with a graphical user interface is provided to aid users in their Pyt
 Click the gif above to watch full video demonstration of the project on YouTube.
 
 ## Screenshots
-![Screenshot 1](images/screenshot-1.png)
-![Screenshot 2](images/screenshot-2.png)
-![Screenshot 3](images/screenshot-3.png)
+![Screenshot 1](SS1.png)
+![Screenshot 2](SS2.png)
+![Screenshot 3](SS3.png)
 
 ## Usage
 1. Clone the repository:
